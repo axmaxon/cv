@@ -224,7 +224,13 @@ p {
   margin-bottom: 5px;
 }
 .main-wrapper .projects-section .intro {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
+  color: #3F4650;
+  font-size: 16px;
+  font-weight: 500;
+}
+.intro .remark{
+  color: #fb866a;
 }
 .main-wrapper .projects-section .item {
   margin-bottom: 15px;
