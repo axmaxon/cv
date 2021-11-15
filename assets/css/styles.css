@@ -317,3 +317,25 @@ p {
     top: 1px;
   }
 }
+
+.myimgdivtoggle {
+  display:none;
+}
+
+/*стили для кнопки 'прошёл' (частично переопределены)*/
+.btn-default {
+  color: #545E6C;
+  background-color: #fff;
+  border-color: #2d7788
+}
+
+.btn-default.focus,.btn-default:focus {
+  color:#545E6C;
+  background-color: #7bc2d3;
+  border-color: #2d7788
+}
+.btn-default:hover {
+  color:#545E6C;
+  background-color: #fb866a;
+  border-color: #2d7788
+}
