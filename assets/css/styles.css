@@ -334,8 +334,14 @@ p {
   background-color: #7bc2d3;
   border-color: #2d7788
 }
+
 .btn-default:hover {
   color:#545E6C;
   background-color: #fb866a;
   border-color: #2d7788
+}
+
+.btn {
+  padding: 2px 6px;
+  line-height: 1.3;
 }
